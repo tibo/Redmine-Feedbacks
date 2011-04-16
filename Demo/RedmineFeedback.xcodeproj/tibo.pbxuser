@@ -1,0 +1,266 @@
+// !$*UTF8*$!
+{
+	11537BFC1359E08E000648F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RedmineFeedbackAppDelegate.m */;
+		name = "RedmineFeedbackAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 598;
+		rType = 0;
+		vrLen = 1590;
+		vrLoc = 336;
+	};
+	11537CFC135A60B1000648F2 /* FeedbackViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 458}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 674}";
+		};
+	};
+	11537CFD135A60B1000648F2 /* FeedbackViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1181, 1222}}";
+			sepNavSelRange = "{2172, 0}";
+			sepNavVisRange = "{1508, 674}";
+			sepNavWindowFrame = "{{1478, 38}, {1024, 736}}";
+		};
+	};
+	11537D04135A60B1000648F2 /* RedmineFeedback.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 458}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 291}";
+		};
+	};
+	11537D0F135A60EA000648F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11537D04135A60B1000648F2 /* RedmineFeedback.h */;
+		name = "RedmineFeedback.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 291;
+		vrLoc = 0;
+	};
+	11537D10135A60EA000648F2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 11537D0B135A60D4000648F2 /* redmine-57.png */;
+	};
+	11537D15135A6165000648F2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RedmineFeedback-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/tibo/Desktop/RedmineFeedbacks/Demo/RedmineFeedback-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	11537D16135A6165000648F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11555753135843A3005E08E2 /* RootVc.m */;
+		name = "RootVc.m: 65";
+		rLen = 0;
+		rLoc = 1737;
+		rType = 0;
+		vrLen = 864;
+		vrLoc = 1072;
+	};
+	11537D17135A6165000648F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11555752135843A3005E08E2 /* RootVc.h */;
+		name = "RootVc.h: 11";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 273;
+		vrLoc = 0;
+	};
+	11537D18135A6165000648F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11537CFC135A60B1000648F2 /* FeedbackViewController.h */;
+		name = "FeedbackViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 674;
+		vrLoc = 0;
+	};
+	11537D19135A6165000648F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11537CFD135A60B1000648F2 /* FeedbackViewController.m */;
+		rLen = 0;
+		rLoc = 9223372036854775646;
+		rType = 0;
+	};
+	11537D1A135A6165000648F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11537CFD135A60B1000648F2 /* FeedbackViewController.m */;
+		name = "FeedbackViewController.m: 88";
+		rLen = 0;
+		rLoc = 2172;
+		rType = 0;
+		vrLen = 674;
+		vrLoc = 1508;
+	};
+	1155572E135841A1005E08E2 /* RedmineFeedback */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RedmineFeedback;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1155573F135841A7005E08E2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	11555740135841A7005E08E2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	11555752135843A3005E08E2 /* RootVc.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 458}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 273}";
+			sepNavWindowFrame = "{{1501, 17}, {1024, 736}}";
+		};
+	};
+	11555753135843A3005E08E2 /* RootVc.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 988}}";
+			sepNavSelRange = "{1737, 0}";
+			sepNavVisRange = "{1072, 864}";
+			sepNavWindowFrame = "{{1478, 38}, {1024, 736}}";
+		};
+	};
+	115557641358492B005E08E2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RedmineFeedbackAppDelegate.h */;
+		name = "RedmineFeedbackAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 464;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* RedmineFeedbackAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 472}}";
+			sepNavSelRange = "{207, 0}";
+			sepNavVisRange = "{0, 464}";
+			sepNavWindowFrame = "{{1455, 59}, {1024, 736}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* RedmineFeedbackAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1066}}";
+			sepNavSelRange = "{598, 0}";
+			sepNavVisRange = "{336, 1590}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* RedmineFeedback */ = {
+		activeExec = 0;
+		executables = (
+			1155572E135841A1005E08E2 /* RedmineFeedback */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1155572E135841A1005E08E2 /* RedmineFeedback */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* RedmineFeedback */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* RedmineFeedback */,
+		);
+		codeSenseManager = 11555740135841A7005E08E2 /* Code sense */;
+		executables = (
+			1155572E135841A1005E08E2 /* RedmineFeedback */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					672.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					863,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324690024;
+			PBXWorkspaceStateSaveDate = 324690024;
+		};
+		perUserProjectItems = {
+			11537BFC1359E08E000648F2 /* PBXTextBookmark */ = 11537BFC1359E08E000648F2 /* PBXTextBookmark */;
+			11537D0F135A60EA000648F2 /* PBXTextBookmark */ = 11537D0F135A60EA000648F2 /* PBXTextBookmark */;
+			11537D10135A60EA000648F2 /* PBXBookmark */ = 11537D10135A60EA000648F2 /* PBXBookmark */;
+			11537D15135A6165000648F2 /* PlistBookmark */ = 11537D15135A6165000648F2 /* PlistBookmark */;
+			11537D16135A6165000648F2 /* PBXTextBookmark */ = 11537D16135A6165000648F2 /* PBXTextBookmark */;
+			11537D17135A6165000648F2 /* PBXTextBookmark */ = 11537D17135A6165000648F2 /* PBXTextBookmark */;
+			11537D18135A6165000648F2 /* PBXTextBookmark */ = 11537D18135A6165000648F2 /* PBXTextBookmark */;
+			11537D19135A6165000648F2 /* PBXTextBookmark */ = 11537D19135A6165000648F2 /* PBXTextBookmark */;
+			11537D1A135A6165000648F2 /* PBXTextBookmark */ = 11537D1A135A6165000648F2 /* PBXTextBookmark */;
+			115557641358492B005E08E2 /* PBXTextBookmark */ = 115557641358492B005E08E2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1155573F135841A7005E08E2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
