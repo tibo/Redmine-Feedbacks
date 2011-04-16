@@ -3,8 +3,8 @@ Redmine Feedbacks
 
 Redmine Feedbacks is a simple MessageUI view which make the user of your iPhone App to send feedbacks directly to the tracker of your Redmine using Redmine REST-XML API.
 
-(http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/iphone.png)
-(http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/redmine.png)
+[![](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/iphone.png)](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/iphone.png)
+[![](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/redmine.png)](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/redmine.png)
 
 Adding Redmine Feedbacks to your project
 ====================================
