@@ -3,14 +3,14 @@ Redmine Feedbacks
 
 Redmine Feedbacks is a simple MessageUI view which make the user of your iPhone App to send feedbacks directly to the tracker of your Redmine using Redmine REST-XML API.
 
-[![](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/iphone.png)](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/iphone.png)
-[![](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/redmine.png)](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/redmine.png)
+[![](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/iphone-min.png)](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/iphone.png)
+[![](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/redmine-min.png)](http://dl.dropbox.com/u/2044697/staticfiles/redminefeedback/redmine.png)
 
 Adding Redmine Feedbacks to your project
 ====================================
 
 Just drag and drop the full RedmineFeedbacks folder into your XCode project.
-You should also need to add libz.dylib for TBXML, the XML parser I use (more on http://tbxml.co.uk)
+You should also need to add libz.dylib for TBXML, the XML parser I use (more on [TBXML.co.uk](http://tbxml.co.uk))
 
 Don't forget to enable the REST API in your Redmine configuration (Administration -> Settings -> Authentication -> Enable REST web service)
 
@@ -19,29 +19,19 @@ Usage
 
 Start by creating a new RedmineEndpoint configuration:
 
-
-RedmineEndpoint *ep = [[RedmineEndpoint alloc] init];
-
-ep.redmineURL = [NSURL URLWithString:@"http://192.168.1.81/redmine"];
-
-ep.redmineUser = @"admin";
-
-ep.redminePass = @"admin";
-
-ep.redmineProjectIdentifier = @"test2";
-
+    RedmineEndpoint *ep = [[RedmineEndpoint alloc] init];
+    ep.redmineURL = [NSURL URLWithString:@"http://192.168.1.81/redmine"];
+    ep.redmineUser = @"admin";
+    ep.redminePass = @"admin";
+    ep.redmineProjectIdentifier = @"test2";
 
 (tracker and category selection is currently not handled)
 
-
 Then create a new FeedbackViewController, set the endpoint you just create and present it (the view controller) modaly:
 
-
-FeedbackViewController *feedbackvc = [[FeedbackViewController alloc] initWithNibName:@"FeedbackViewController" bundle:nil];
-
-feedbackvc.endpoint = ep;
-
-[self presentModalViewController:feedbackvc animated:YES];
+    FeedbackViewController *feedbackvc = [[FeedbackViewController alloc] initWithNibName:@"FeedbackViewController" bundle:nil];
+    feedbackvc.endpoint = ep;
+    [self presentModalViewController:feedbackvc animated:YES];
 
 
 License
