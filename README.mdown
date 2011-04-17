@@ -51,5 +51,6 @@ TODO
 - handle the text view to not stand under the keyboard
 - handle a require property in each fields (currently just the subject is require to make the issue creation succed on Redmine)
 - handle the verification of a proper mail address.
+- iPad version
 
 Any sugestion is welcome
